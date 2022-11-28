@@ -1,0 +1,15 @@
+.navbar{
+    background-color: rgb(99, 164, 166);
+
+}
+
+
+li:hover{
+    background-color:lightblue;
+    border-radius: 2px;
+    border:1px solid white;
+}
+#carouselExampleControls{
+    margin-right: 20px;
+    
+}
